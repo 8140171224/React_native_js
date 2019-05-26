@@ -22,3 +22,32 @@
 [Node.js](https://nodejs.org/en/download/)
 
 # Command's
+
+After installing node.js 
+
+ 1.Step
+ 
+    npm install -g expo-cli*
+    
+ 2.Step
+ 
+ For creating new project 
+ 
+     expo init name
+ 
+ 3.Step
+ 
+ Start codeing
+ 
+     cd AwesomeProject
+     
+     npm start
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ## BY aakashpadhiyar
+ ## BY 8140171224
