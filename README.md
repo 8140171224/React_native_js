@@ -45,8 +45,7 @@ After installing node.js
  
  ## App already there
  
-![EX](https://oneshoe-web.cdn.prismic.io/oneshoe-web/b747f81ba46cd20adeb707fc933e5380d02d4c04_1_xc1bbg7-9biz15a5c4y1sg.png)
- 
+![EX](https://github.com/8140171224/Portfolio/blob/master/Portfolio/img/es.png)
  
 ## Here I'm
 
