@@ -37,7 +37,7 @@ After installing node.js
  
  3.Step
  
- Start codeing
+ Start coding
  
      cd AwesomeProject
      
