@@ -21,3 +21,16 @@ Calling the `react-native` command then helps us create a new React Native appli
 creates a folder called `HelloWorld` in which the boilerplate code can be found.
 
 ![](https://github.com/8140171224/React_native_js/blob/master/info/g-image.gif)
+
+# Android & Ios
+
+## Android
+
+    You need android studio emulator to run your code  
+  
+[Android Studio](https://developer.android.com/studio/)
+
+
+## Ios 
+
+    😅 No idea
